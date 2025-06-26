@@ -77,7 +77,7 @@ Built an ML-powered toll automation system. Detected vehicles using Haar Cascade
 ## 📫 Contact
 
 📧 [Email Me](mailto:tazeensudan@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/tazeen-sudan/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tazeensudan/)  
 🌐 [Portfolio Website (Coming Soon)](#)
 
 ---
